@@ -1,0 +1,6 @@
+id=mipay-fix
+name=Redmi K30 5G Mi Pay Fix
+version=v1.0
+versionCode=1
+author=ReekyStive
+description=A Magisk Module to install Mi Pay for Redmi K30 5G on custom ROMs
